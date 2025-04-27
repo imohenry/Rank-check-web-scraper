@@ -1,0 +1,40 @@
+[
+    {
+        "website": "example.com",
+        "keywords": [
+          { "keyword": "SEO tips", "ranking": 1, "country": "USA" },
+          { "keyword": "digital marketing", "ranking": 5, "country": "Canada" }
+        ]
+      },
+      {
+        "website": "anotherexample.com",
+        "keywords": [
+          { "keyword": "web design", "ranking": 3, "country": "UK" },
+          { "keyword": "UX best practices", "ranking": 8, "country": "Germany" }
+        ]
+      },
+    {
+        "website": "https://www.Rankrite.io/",
+        "keywords": [
+            { "keyword": "Seo checker websites", 
+               "ranking": 15,
+               "country": "Norway"
+            },
+
+            { "keyword": "SEO", "ranking": 3, "country": "Nigeria" }
+        ]
+      },
+    {
+      "website": "otherwebsite.com",
+      "keyword": "seo tips",
+      "ranking": 1,
+      "country": "United States"
+    },
+    {
+      "website": "otherwebsite.com",
+      "keyword": "seo tips",
+      "ranking": 6,
+      "country": "Canada"
+    }
+  ]
+  
